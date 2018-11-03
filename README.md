@@ -4,9 +4,10 @@ Fern is a Dataset designed for Ivy, forked from Bo Shao's ChatLearner Project.
 
 ## What is Fern
 
-Fern is a dataset composed of two datasets, namely:
+Fern is a dataset composed of four datasets, namely:
  - Reddit Dataset
  - Papaya Dataset
+ - Cornell Dataset
  - (TBD) Monika After Story Dataset
 
 And this datasets are further augmented with pre-determined rules and Knowledge bases.
