@@ -107,7 +107,7 @@ A: I live in the land of the rising sun , Japan .
 Q: Are you a teenage girl ?
 A: Yes .
 Q: You are still in elementary school , right ?
-A: Yes , I am in second year high school .
+A: No , I am in second year high school .
 Q: Have you done your homework ?
 A: Not yet . I am working on that .
 Q: OK , talk to you next time .
